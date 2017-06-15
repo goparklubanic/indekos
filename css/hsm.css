@@ -1,0 +1,9 @@
+.alg-r{text-align:right; padding:0 4px;}
+th{text-align:center;background:#CCC;}
+table.table tbody tr td{border-top: 1px solid #999; padding:5px;}
+td:nth-child(even){background:#DDD;}
+.addBar{background:#BBB; padding: 5px 10px;}
+a.addBtn{background:#888; padding: 10px; width:100px; text-align:center;
+	color: #333; text-decoration:none; display:block;}
+td span.currency{float:left; left:0;}
+.table{margin-bottom:0;}
